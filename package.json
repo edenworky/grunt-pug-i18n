@@ -21,6 +21,7 @@
     "lodash": "~4.17.15"
   },
   "devDependencies": {
+    "coffeescript": "^2.5.1",
     "grunt-contrib-nodeunit": "~2.0.0",
     "grunt-contrib-clean": "~2.0.0",
     "grunt-contrib-coffee": "~2.1.0",
